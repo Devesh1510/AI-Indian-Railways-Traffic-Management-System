@@ -1,0 +1,9 @@
+train_id,scheduled_arrival,scheduled_departure,platform,platform_fixed,route,priority,current_delay
+TRAIN_101,86,89,P1,0,ROUTE_A,1,4
+TRAIN_102,99,102,P1,1,ROUTE_A,1,2
+TRAIN_103,32,36,P1,0,ROUTE_C,3,13
+TRAIN_104,33,39,P3,0,ROUTE_A,2,10
+TRAIN_105,40,44,P2,0,ROUTE_A,1,12
+TRAIN_106,17,22,P3,0,ROUTE_A,2,3
+TRAIN_107,53,56,P3,0,ROUTE_C,1,2
+TRAIN_108,10,18,P2,0,ROUTE_A,1,3
